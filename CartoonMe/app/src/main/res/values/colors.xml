@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#414141</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#767676</color>
+
+
+    <color name="default_screen_bg">#f9f9f9</color>
+    <color name="rounded_container_bg">#222222</color>
+    <color name="rounded_container_border">#3b3f44</color>
+    <color name="light_gray_header_color">#646663</color>
+
+
+    <color name="lighter_bkgd">#f4f4f4</color>
+    <color name="dividers">#ecebeb</color>
+    <color name="standard_font">#333333</color>
+    <color name="text">#888888</color>
+    <color name="light_gray">#f8f8f8</color>
+    <color name="dark_gray">#eeeeee</color>
+    <color name="info">#AAAAAA</color>
+    <color name="edit_text_bkgd">#FFFFFF</color>
+    <color name="borders">#d4d3d3</color>
+
+
+    <color name="green">#0FA252</color>
+    <color name="greenPressed">#AA0FA252</color>
+    <color name="yellow">#e4bc2a</color>
+    <color name="yellowPressed">#aae4bc2a</color>
+    <color name="lightYellow">#e9d59f</color>
+    <color name="lightYellowPressed">#aae9d59f</color>
+    <color name="red">#df0202</color>
+    <color name="redPressed">#aadf0202</color>
+    <color name="purple">#6748a1</color>
+    <color name="purplePressed">#aa6748a1</color>
+    <color name="orange">#df8a01</color>
+    <color name="orangePressed">#aadf8a01</color>
+    <color name="lightGreen">#029181</color>
+    <color name="lightGreenPressed">#aa029181</color>
+    <color name="blue">#0da3e1</color>
+    <color name="bluePressed">#aa0da3e1</color>
+    <color name="lightBlue">#69cff9</color>
+    <color name="lightBluePressed">#aa69cff9</color>
+    <color name="white">#FFF</color>
+    <color name="grayHint">#9B9B9D</color>
+    <color name="grayBackground">#E5E5E5</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <!-- Custom Alert Dialog-->
+    <color name="dialog_bg">#DDFFFFFF</color>
+    <color name="dialog_title_text">#000000</color>
+    <color name="dialog_decription_text">#000000</color>
+    <color name="dialog_btn_text">#e4770a</color>
+    <color name="dialog_btn_text_pressed">#99e4770a</color>
+    <color name="dialog_btn_bg">#00FFFFFF</color>
+    <color name="dialog_line_divider">#cccccc</color>
+
+</resources>

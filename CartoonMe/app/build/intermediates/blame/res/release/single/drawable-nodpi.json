@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\face_triangular.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-nodpi\\face_triangular.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\face_oval.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-nodpi\\face_oval.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\face_square.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-nodpi\\face_square.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\face_oblong.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-nodpi\\face_oblong.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi\\face_round.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-nodpi\\face_round.png"
+    }
+]

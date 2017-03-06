@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+     android:layout_height="fill_parent"
+     android:layout_width="fill_parent"
+     android:id="@+id/upper_layout"
+     >
+<ScrollView
+       android:layout_width="fill_parent"
+       android:layout_height="fill_parent"
+       android:fillViewport="true">
+        
+    <RelativeLayout
+    android:orientation="vertical"
+    android:id="@+id/root"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffba00"
+    >
+
+     
+     
+     
+    <ImageButton
+         android:id="@+id/imageView_banner"
+         android:contentDescription="@string/banner"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentTop="true"
+         android:layout_centerHorizontal="true"
+         android:layout_marginLeft="10dp"
+         android:layout_marginRight="10dp"
+         android:layout_marginTop="30dp"
+         android:adjustViewBounds="true"
+         android:scaleType="fitXY"
+         android:background="@android:color/transparent"
+         android:src="@drawable/cartoon_banner" />
+    
+
+     <LinearLayout
+         android:id="@+id/buttons_layout"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="30dp"
+         android:layout_marginLeft="35dp"
+         android:layout_marginBottom="20dp"
+         android:layout_below="@+id/imageView_banner"
+         android:orientation="vertical" >
+
+         <ImageButton
+             android:id="@+id/imageButton_camera"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:background="@android:color/transparent"
+             android:src="@drawable/camera_image_button"
+             android:contentDescription="@string/cp_image_contentDesc" />
+
+         <TextView
+             android:id="@+id/textView_camera_label"
+             android:layout_marginLeft="20dp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="#000000"
+             android:text="@string/camera_label" />
+         
+         <ImageButton
+             android:id="@+id/imageButton_gallery"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:background="@android:color/transparent"
+             android:layout_marginTop="4dp"
+             android:contentDescription="@string/cp_image_contentDesc"
+             android:src="@drawable/gallery_image_button" />
+
+         <TextView
+             android:id="@+id/textView_gallery_label"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="20dp"
+             android:textColor="#000000"
+             android:text="@string/gallery_label" />
+            
+         <ImageButton
+             android:id="@+id/imageButton_album"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="4dp"
+             android:background="@android:color/transparent"
+             android:contentDescription="@string/cp_image_contentDesc"
+             android:src="@drawable/album_image_button" />
+     <TextView
+        android:id="@+id/textView_album_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+  		android:textColor="#000000"
+  		android:layout_marginLeft="20dp"
+        android:text="@string/album_label" />
+      <Button
+            android:id="@+id/button_learn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:text="@string/learn" 
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:padding="7dp"
+            android:background="@drawable/custom_button_orange"/>
+     </LinearLayout>
+ 
+    <ImageView
+        android:id="@+id/imageView_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imageView_banner"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="35dp"
+        android:contentDescription="@string/logo"
+        android:src="@drawable/logo_" />
+
+    <LinearLayout 
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/buttons_layout"
+        android:gravity="bottom"
+        android:layout_alignParentBottom="true">
+
+
+        
+
+	<com.appbrain.AppBrainBanner
+	android:id="@+id/appbrain_banner"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+        
+    </LinearLayout>
+
+        
+</RelativeLayout>
+    </ScrollView>
+ 
+    </RelativeLayout>

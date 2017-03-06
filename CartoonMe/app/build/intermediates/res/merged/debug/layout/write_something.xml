@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/textView_writeSomething"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/write_something"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/editTextDialogUserInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="none" >
+
+        <requestFocus />
+    </EditText>
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:weightSum="1"
+		>	
+	  <TextView
+	    android:id="@+id/textView_font"
+	    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:gravity="center_horizontal"
+        android:text="@string/font"
+        android:textSize="20sp"
+	     >
+	  </TextView>
+
+	  	<TextView
+	  	    android:id="@+id/textView_color"
+	  	    android:layout_width="wrap_content"
+	  	    android:layout_height="wrap_content"
+	  	    android:layout_weight="0.5"
+	  	    android:gravity="center_horizontal"
+	  	    android:text="@string/colour"
+	  	    android:textSize="20sp" />
+	  
+	</LinearLayout>
+
+
+
+<LinearLayout 
+    
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+ <Spinner
+        android:id="@+id/spinner_text"
+        android:layout_width="0dip"
+        android:layout_weight="0.5"
+        android:layout_height="wrap_content" />
+    <Spinner
+        android:id="@+id/spinner_color"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5" />
+
+   
+    
+   </LinearLayout>
+
+ 
+
+</LinearLayout>

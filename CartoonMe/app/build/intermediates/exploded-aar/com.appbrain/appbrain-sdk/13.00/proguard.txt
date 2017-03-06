@@ -1,0 +1,9 @@
+-keep public class com.appbrain.KeepClass
+-keep public class * implements com.appbrain.KeepClass
+-keepclassmembers class * implements com.appbrain.KeepClass {
+    <methods>;
+}
+-keepattributes *Annotation*
+-keep class android.webkit.JavascriptInterface
+-dontwarn android.webkit.JavascriptInterface
+-dontwarn com.appbrain.**

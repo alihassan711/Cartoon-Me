@@ -1,0 +1,67 @@
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:layout_width="match_parent"
+    android:background="#ffffff"
+    android:id="@+id/drawer"
+    android:layout_height="match_parent"> 
+ <FrameLayout 
+     	android:id="@+id/root_backgorund"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+     <ImageView
+         
+            android:id="@+id/image_view_backgroud"
+            android:contentDescription="@string/cp_image_contentDesc"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="fitXY"
+         ></ImageView>
+     
+           <ImageView
+            android:id="@+id/final_image_id"
+            android:contentDescription="@string/cp_image_contentDesc"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="matrix" />  
+             <ImageView
+            android:id="@+id/write_on_image"
+            android:contentDescription="@string/cp_image_contentDesc"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="matrix" />   
+            <ImageView
+            android:id="@+id/imageView_glasses_write_activity"
+            android:contentDescription="@string/cp_image_contentDesc"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="matrix" />   
+            <RelativeLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            <ImageView 
+                android:id="@+id/imageView_appname"
+                android:contentDescription="@string/cp_image_contentDesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/appname_image"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                />
+            </RelativeLayout>
+      </FrameLayout>
+
+     <ExpandableListView android:id="@+id/left_drawer"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="2dp"
+        android:padding="10dp"
+        android:background="#ffba00"/> 
+        
+ 
+ 
+
+</android.support.v4.widget.DrawerLayout>

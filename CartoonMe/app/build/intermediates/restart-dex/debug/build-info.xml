@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="203908094523911"
+    token="-1845369430005940113"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="4775" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="29" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_98338c272f45242bf818b26cae0b43af918f8ea7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_14d6233ded84823efe75ccfeab036e4d5dabc625\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_0831e3f482e3b04873d8f0f22e02094029b44410\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_ef9cf02a7ebe6f441caf767475f63970739bbcac\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_6da7fa3ef331978cd1c6c954818e32d3dc72ec1f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_836903054b5c52d7b9eaadb101891cf4a017f26b\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_4e1e0da756820e9829db219fc543c7da752267a0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_10276af0510c73df5bbe1009ec47a925472085a7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_6358f17ea1b35532354f3c27ddee86718c9ddab2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_17d0bf1728484f26b1399c828cd4ebc13df70e03\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_9171b1865b0347fd8c848e26d66e13f180920d48\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_74dbff3343f8a237513d3d73c6e71b9f3a660383\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_3c02c2a30821e307ece2bc703320b72329288aac\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_ec9ff92441f8388879aeda608dff48c6b78534d4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_6b922eec80c5bb881b615d8af878ada2f30c6a8e\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_f3220fabe68c50a5cd818b67361c299b3830687b\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_391517a1e1bbb2f2b04363f6541fbb8459df3bb8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_cdc961f3687a1030f8edbcebc1fa5298c31299f1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_7a629609cb7acc86f8a486f163515118c864af0d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_e895598867ad75ddada628fbccce0e7720c5f25f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_404be69603d24064406da9ac0626b2ce29403332\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_c0dbf040d57f0126f6490fc0a4d12217e82b7842\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c7be9ac6efd77914a5b212ba4548f5d42fccf46\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3cf3e1c1db5ab9bf4cd697e43c39fa90aefd4f82\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_866a670ebca786b2e484b33f7a3ff4063fe779c4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_979ed9c690e847a2f7714b65d1c47eaee1c8b00d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_11e980148f430bd31401687cf5e7e95f9d361253\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_07bf8f490150c31f3be9b4d95172ee70343243e2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_2cfce5d9bd8b022e62aa18c080a3a58343febece\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_0fc4e5c406b6c5f40ed9fb56dc58c5d842962ab2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7cd3b8a2cdb8a5659c29b025e3426d6ee72bc756\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_27e2d613774d9c4b64f6706dd2a84d1432cbbe51\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_6cc5278bdfd052b005a9f44181ab57c21f642f20\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_3e8131d4a92dcbaaf612b46c368a41e2e4d3af3b\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_11108b309936a5becbe0a44d7cf9af76ba75089e\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fbcb3230df8388e7ccd86a16d940181c52edee9a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_cd54c21798aede3a603d3612786eb6fd1ac751f5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_d5b1c904258208d842d406b4c994f6f0bb7189f4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_ef297f46ce3d172ef9e0d97ef856114035a7c214\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_7072ade1c40053ec6ad524a5af586ec6449938c7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_4fb70fcd4c996043a5dc977e6edfdc41efc7ec3d\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_228806d267fe4136667d55f8bfdf8c0a224a3832\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_af138347cf6ac5ba58ec692d2003e8b48cc78906\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_a6c31ad96610044c61ee52713b7c7e839a7d3775\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_4dcbadd68ce4ff7189cea74a184d5a5b0ff761b3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_91d2aa3a1c23b6d3a107441d91007f3c9ba89158\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_002fe4497ec3655d3d1c0a52bc78cfd45dc20718\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_c31695dc93d4dcad60607e948f7f3d82107bfb50\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_5c23257f7b7b0abd5d936fd28ce4ed9b41491b1f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_f3b9e90c4fe95a760c137edba7d96e385cd3c1d6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_2458eb398f5e282da712f49461df79350a3ed986\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_154b295510fabeeb4a55cfc42aabe8bbcb5683da\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_86e16b0e9097c2c7eb6f46f95c4a1bfb12774bdb\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_fcefd3879696172bb8545b594f33f09a6d836c23\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_83a23d9248afb10162f8617495bb318760d9133e\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_fe019a9931dc0f3e8ae6ea7fa4c52ae997d38d30\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_30b56c7beeb76874da952312c023e203f28fc8ee\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_64c26caf97c0f6631b4c91a440fdaef8294c0f5a\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_638a8c08830db2599ac65915a6b1611ae13def4e\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.appbrain-appbrain-sdk-12.00_5bae901010eaa93523cf6c17df7c503cb178cc4f\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_6e582ef2995c0aa023221c4398cc9c56fc10eb9b\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_a111bc21d8eff34b7e7879880e0a4cdcdc8d9d7e\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_96d265473c3e9032824b9a9423ba61fe7c150b6c\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_cf589e0b3578ead6370fcf21be2e51424b5d8cee\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_1b1bc1690108b2c1a7940363c0c6c93ab6a6822b\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_2a198c8b3ac446bd57ce06738f1fdfc3e65d1a21\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_e20cf9a113be48a73eca07dcb912e99cedf65be0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_770ca1620de02e2c9c2f7c19ff84ce9d2a5c1693\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_92058df9c190447df917cc8cf9d851efc7445a88\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_e3463450c283a6fd44595e88553505b79d1b2853\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_4a7ab3899f88fff3a5f867e9e69e939ca6af16e1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_b8e7cae66a192c6cac1ed4c68ac796d0d7ec32d2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_a904cc118e150d1d12a76bc52d6a799296f8645d\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="200987378447863"
+        verifier="BINARY_MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="203908094523911"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_98338c272f45242bf818b26cae0b43af918f8ea7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_14d6233ded84823efe75ccfeab036e4d5dabc625\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_0831e3f482e3b04873d8f0f22e02094029b44410\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_ef9cf02a7ebe6f441caf767475f63970739bbcac\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_6da7fa3ef331978cd1c6c954818e32d3dc72ec1f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_836903054b5c52d7b9eaadb101891cf4a017f26b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_4e1e0da756820e9829db219fc543c7da752267a0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_10276af0510c73df5bbe1009ec47a925472085a7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_6358f17ea1b35532354f3c27ddee86718c9ddab2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_17d0bf1728484f26b1399c828cd4ebc13df70e03\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_9171b1865b0347fd8c848e26d66e13f180920d48\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_74dbff3343f8a237513d3d73c6e71b9f3a660383\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_3c02c2a30821e307ece2bc703320b72329288aac\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_ec9ff92441f8388879aeda608dff48c6b78534d4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_6b922eec80c5bb881b615d8af878ada2f30c6a8e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_f3220fabe68c50a5cd818b67361c299b3830687b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_391517a1e1bbb2f2b04363f6541fbb8459df3bb8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_cdc961f3687a1030f8edbcebc1fa5298c31299f1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_7a629609cb7acc86f8a486f163515118c864af0d\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_e895598867ad75ddada628fbccce0e7720c5f25f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_404be69603d24064406da9ac0626b2ce29403332\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_c0dbf040d57f0126f6490fc0a4d12217e82b7842\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c7be9ac6efd77914a5b212ba4548f5d42fccf46\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3cf3e1c1db5ab9bf4cd697e43c39fa90aefd4f82\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_866a670ebca786b2e484b33f7a3ff4063fe779c4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_979ed9c690e847a2f7714b65d1c47eaee1c8b00d\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_11e980148f430bd31401687cf5e7e95f9d361253\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_07bf8f490150c31f3be9b4d95172ee70343243e2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_2cfce5d9bd8b022e62aa18c080a3a58343febece\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_0fc4e5c406b6c5f40ed9fb56dc58c5d842962ab2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7cd3b8a2cdb8a5659c29b025e3426d6ee72bc756\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_27e2d613774d9c4b64f6706dd2a84d1432cbbe51\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_6cc5278bdfd052b005a9f44181ab57c21f642f20\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_3e8131d4a92dcbaaf612b46c368a41e2e4d3af3b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_11108b309936a5becbe0a44d7cf9af76ba75089e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fbcb3230df8388e7ccd86a16d940181c52edee9a\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_cd54c21798aede3a603d3612786eb6fd1ac751f5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_d5b1c904258208d842d406b4c994f6f0bb7189f4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_ef297f46ce3d172ef9e0d97ef856114035a7c214\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_7072ade1c40053ec6ad524a5af586ec6449938c7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_4fb70fcd4c996043a5dc977e6edfdc41efc7ec3d\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_228806d267fe4136667d55f8bfdf8c0a224a3832\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_af138347cf6ac5ba58ec692d2003e8b48cc78906\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_a6c31ad96610044c61ee52713b7c7e839a7d3775\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_4dcbadd68ce4ff7189cea74a184d5a5b0ff761b3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_91d2aa3a1c23b6d3a107441d91007f3c9ba89158\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_002fe4497ec3655d3d1c0a52bc78cfd45dc20718\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_c31695dc93d4dcad60607e948f7f3d82107bfb50\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_5c23257f7b7b0abd5d936fd28ce4ed9b41491b1f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_f3b9e90c4fe95a760c137edba7d96e385cd3c1d6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_2458eb398f5e282da712f49461df79350a3ed986\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_154b295510fabeeb4a55cfc42aabe8bbcb5683da\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_86e16b0e9097c2c7eb6f46f95c4a1bfb12774bdb\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_fcefd3879696172bb8545b594f33f09a6d836c23\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_83a23d9248afb10162f8617495bb318760d9133e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_fe019a9931dc0f3e8ae6ea7fa4c52ae997d38d30\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_30b56c7beeb76874da952312c023e203f28fc8ee\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_64c26caf97c0f6631b4c91a440fdaef8294c0f5a\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_638a8c08830db2599ac65915a6b1611ae13def4e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.appbrain-appbrain-sdk-12.00_5bae901010eaa93523cf6c17df7c503cb178cc4f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_6e582ef2995c0aa023221c4398cc9c56fc10eb9b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_a111bc21d8eff34b7e7879880e0a4cdcdc8d9d7e\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_96d265473c3e9032824b9a9423ba61fe7c150b6c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_cf589e0b3578ead6370fcf21be2e51424b5d8cee\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_1b1bc1690108b2c1a7940363c0c6c93ab6a6822b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_2a198c8b3ac446bd57ce06738f1fdfc3e65d1a21\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_e20cf9a113be48a73eca07dcb912e99cedf65be0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_770ca1620de02e2c9c2f7c19ff84ce9d2a5c1693\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_92058df9c190447df917cc8cf9d851efc7445a88\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_e3463450c283a6fd44595e88553505b79d1b2853\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_4a7ab3899f88fff3a5f867e9e69e939ca6af16e1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_b8e7cae66a192c6cac1ed4c68ac796d0d7ec32d2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_a904cc118e150d1d12a76bc52d6a799296f8645d\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

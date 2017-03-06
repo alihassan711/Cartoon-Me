@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.1"
+//    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "alburraq.cartoon.me"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0.0"
+        // Enabling multidex support.
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    dexOptions {
+        javaMaxHeapSize = "4g"
+    }
+
+
+        lintOptions {
+            disable "ResourceType"
+        }
+}
+
+repositories {
+    maven {
+        url 'http://swisscodemonkeys.github.io/appbrain-sdk/maven'
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-annotations:25.0.1'
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.android.support:design:25.0.1'
+    compile 'com.appbrain:appbrain-sdk:+@aar'
+//    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+//    compile 'com.squareup.picasso:picasso:2.5.2'
+//    compile 'org.apache.httpcomponents:httpclient:4.5'
+    compile 'com.google.android.gms:play-services-auth:9.0.0'
+    compile 'com.google.android.gms:play-services-gcm:9.0.0'
+    //    compile files('libs/appbrain-applift-sdk-v10.32.jar')
+    //    compile files('libs/universal-image-loader.jar')
+}

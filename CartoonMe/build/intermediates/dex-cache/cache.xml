@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_6cc5278bdfd052b005a9f44181ab57c21f642f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_10276af0510c73df5bbe1009ec47a925472085a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_a111bc21d8eff34b7e7879880e0a4cdcdc8d9d7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_638a8c08830db2599ac65915a6b1611ae13def4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_7072ade1c40053ec6ad524a5af586ec6449938c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_002fe4497ec3655d3d1c0a52bc78cfd45dc20718\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_fcefd3879696172bb8545b594f33f09a6d836c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_d5b1c904258208d842d406b4c994f6f0bb7189f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_17d0bf1728484f26b1399c828cd4ebc13df70e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_b8e7cae66a192c6cac1ed4c68ac796d0d7ec32d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7cd3b8a2cdb8a5659c29b025e3426d6ee72bc756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_2458eb398f5e282da712f49461df79350a3ed986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_86e16b0e9097c2c7eb6f46f95c4a1bfb12774bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_391517a1e1bbb2f2b04363f6541fbb8459df3bb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_0fc4e5c406b6c5f40ed9fb56dc58c5d842962ab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_ef297f46ce3d172ef9e0d97ef856114035a7c214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_fe019a9931dc0f3e8ae6ea7fa4c52ae997d38d30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_7a629609cb7acc86f8a486f163515118c864af0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_5c23257f7b7b0abd5d936fd28ce4ed9b41491b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_836903054b5c52d7b9eaadb101891cf4a017f26b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_cd54c21798aede3a603d3612786eb6fd1ac751f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_404be69603d24064406da9ac0626b2ce29403332\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_30b56c7beeb76874da952312c023e203f28fc8ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_a6c31ad96610044c61ee52713b7c7e839a7d3775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_c0dbf040d57f0126f6490fc0a4d12217e82b7842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_228806d267fe4136667d55f8bfdf8c0a224a3832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_f3b9e90c4fe95a760c137edba7d96e385cd3c1d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_0831e3f482e3b04873d8f0f22e02094029b44410\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_96d265473c3e9032824b9a9423ba61fe7c150b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_86e16b0e9097c2c7eb6f46f95c4a1bfb12774bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_0fc4e5c406b6c5f40ed9fb56dc58c5d842962ab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.appbrain\appbrain-sdk\12.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="30410ea310851743a1deac610d5d09c8e36ed96b">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.appbrain-appbrain-sdk-12.00_5bae901010eaa93523cf6c17df7c503cb178cc4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8efe797d1795d0f3b85c6c546b227ad270343a7">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_979ed9c690e847a2f7714b65d1c47eaee1c8b00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_ef297f46ce3d172ef9e0d97ef856114035a7c214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_98338c272f45242bf818b26cae0b43af918f8ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_ec9ff92441f8388879aeda608dff48c6b78534d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_af138347cf6ac5ba58ec692d2003e8b48cc78906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_836903054b5c52d7b9eaadb101891cf4a017f26b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_ef9cf02a7ebe6f441caf767475f63970739bbcac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_07bf8f490150c31f3be9b4d95172ee70343243e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_228806d267fe4136667d55f8bfdf8c0a224a3832\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c47e9ac619082379e756b0a3a9d09b80486d3115">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c7be9ac6efd77914a5b212ba4548f5d42fccf46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_6da7fa3ef331978cd1c6c954818e32d3dc72ec1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_9171b1865b0347fd8c848e26d66e13f180920d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_96d265473c3e9032824b9a9423ba61fe7c150b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_6cc5278bdfd052b005a9f44181ab57c21f642f20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_4a7ab3899f88fff3a5f867e9e69e939ca6af16e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_6e582ef2995c0aa023221c4398cc9c56fc10eb9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8efe797d1795d0f3b85c6c546b227ad270343a7">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_979ed9c690e847a2f7714b65d1c47eaee1c8b00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_83a23d9248afb10162f8617495bb318760d9133e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_11108b309936a5becbe0a44d7cf9af76ba75089e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_af138347cf6ac5ba58ec692d2003e8b48cc78906\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_64c26caf97c0f6631b4c91a440fdaef8294c0f5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_c31695dc93d4dcad60607e948f7f3d82107bfb50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_002fe4497ec3655d3d1c0a52bc78cfd45dc20718\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_07bf8f490150c31f3be9b4d95172ee70343243e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_4e1e0da756820e9829db219fc543c7da752267a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_2a198c8b3ac446bd57ce06738f1fdfc3e65d1a21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_17d0bf1728484f26b1399c828cd4ebc13df70e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_7cd3b8a2cdb8a5659c29b025e3426d6ee72bc756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_14d6233ded84823efe75ccfeab036e4d5dabc625\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_391517a1e1bbb2f2b04363f6541fbb8459df3bb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_a904cc118e150d1d12a76bc52d6a799296f8645d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_6358f17ea1b35532354f3c27ddee86718c9ddab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_83a23d9248afb10162f8617495bb318760d9133e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_cd54c21798aede3a603d3612786eb6fd1ac751f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_7a629609cb7acc86f8a486f163515118c864af0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_2a198c8b3ac446bd57ce06738f1fdfc3e65d1a21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_64c26caf97c0f6631b4c91a440fdaef8294c0f5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_d5b1c904258208d842d406b4c994f6f0bb7189f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_fe019a9931dc0f3e8ae6ea7fa4c52ae997d38d30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_4a7ab3899f88fff3a5f867e9e69e939ca6af16e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_5c23257f7b7b0abd5d936fd28ce4ed9b41491b1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_c31695dc93d4dcad60607e948f7f3d82107bfb50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_1b1bc1690108b2c1a7940363c0c6c93ab6a6822b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3cf3e1c1db5ab9bf4cd697e43c39fa90aefd4f82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_404be69603d24064406da9ac0626b2ce29403332\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_10276af0510c73df5bbe1009ec47a925472085a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_a111bc21d8eff34b7e7879880e0a4cdcdc8d9d7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_0831e3f482e3b04873d8f0f22e02094029b44410\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.appbrain\appbrain-sdk\12.00\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30410ea310851743a1deac610d5d09c8e36ed96b">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.appbrain-appbrain-sdk-12.00_5bae901010eaa93523cf6c17df7c503cb178cc4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_c0dbf040d57f0126f6490fc0a4d12217e82b7842\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_ec9ff92441f8388879aeda608dff48c6b78534d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_27e2d613774d9c4b64f6706dd2a84d1432cbbe51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_4dcbadd68ce4ff7189cea74a184d5a5b0ff761b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fbcb3230df8388e7ccd86a16d940181c52edee9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_ef9cf02a7ebe6f441caf767475f63970739bbcac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_fcefd3879696172bb8545b594f33f09a6d836c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_e20cf9a113be48a73eca07dcb912e99cedf65be0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DEV\Android\Studio\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_cf589e0b3578ead6370fcf21be2e51424b5d8cee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_9171b1865b0347fd8c848e26d66e13f180920d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_74dbff3343f8a237513d3d73c6e71b9f3a660383\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_2458eb398f5e282da712f49461df79350a3ed986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c47e9ac619082379e756b0a3a9d09b80486d3115">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c7be9ac6efd77914a5b212ba4548f5d42fccf46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_3c02c2a30821e307ece2bc703320b72329288aac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_3e8131d4a92dcbaaf612b46c368a41e2e4d3af3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_e895598867ad75ddada628fbccce0e7720c5f25f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_770ca1620de02e2c9c2f7c19ff84ce9d2a5c1693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_6b922eec80c5bb881b615d8af878ada2f30c6a8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_4dcbadd68ce4ff7189cea74a184d5a5b0ff761b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_30b56c7beeb76874da952312c023e203f28fc8ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_cdc961f3687a1030f8edbcebc1fa5298c31299f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_27e2d613774d9c4b64f6706dd2a84d1432cbbe51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_a6c31ad96610044c61ee52713b7c7e839a7d3775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_e3463450c283a6fd44595e88553505b79d1b2853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_e20cf9a113be48a73eca07dcb912e99cedf65be0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_154b295510fabeeb4a55cfc42aabe8bbcb5683da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_866a670ebca786b2e484b33f7a3ff4063fe779c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_2cfce5d9bd8b022e62aa18c080a3a58343febece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_e895598867ad75ddada628fbccce0e7720c5f25f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_74dbff3343f8a237513d3d73c6e71b9f3a660383\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_11e980148f430bd31401687cf5e7e95f9d361253\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_3e8131d4a92dcbaaf612b46c368a41e2e4d3af3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_4fb70fcd4c996043a5dc977e6edfdc41efc7ec3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_2cfce5d9bd8b022e62aa18c080a3a58343febece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_6358f17ea1b35532354f3c27ddee86718c9ddab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_91d2aa3a1c23b6d3a107441d91007f3c9ba89158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_638a8c08830db2599ac65915a6b1611ae13def4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_6b922eec80c5bb881b615d8af878ada2f30c6a8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_e3463450c283a6fd44595e88553505b79d1b2853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_92058df9c190447df917cc8cf9d851efc7445a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_a904cc118e150d1d12a76bc52d6a799296f8645d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_cdc961f3687a1030f8edbcebc1fa5298c31299f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_92058df9c190447df917cc8cf9d851efc7445a88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_1b1bc1690108b2c1a7940363c0c6c93ab6a6822b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_866a670ebca786b2e484b33f7a3ff4063fe779c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_f3220fabe68c50a5cd818b67361c299b3830687b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="D:\Workspace\Al-Burraq\WorkingProjects\CartoonMe\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_b8e7cae66a192c6cac1ed4c68ac796d0d7ec32d2\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="editText3LineBackgroundTransparent">63dp</dimen>
+    <dimen name="editText3LineHeight">64dp</dimen>
+    <dimen name="editTextBackgroundTransparent">31dp</dimen>
+    <dimen name="editTextHeight">32dp</dimen>
+</resources>

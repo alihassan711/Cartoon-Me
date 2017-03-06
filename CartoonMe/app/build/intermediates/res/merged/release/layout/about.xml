@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#ffba00">
+
+      <ImageView
+        android:id="@+id/imageView_about_activity_banner"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+       	android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="29dp"
+        android:layout_margin="20dp"
+        android:contentDescription="@string/banner"
+        android:src="@drawable/cartoon_banner" />
+   <LinearLayout 
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="bottom"
+        android:layout_alignParentBottom="true">
+
+
+        
+        <TextView
+	        android:id="@+id/textView_copy_right_about"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center_horizontal"
+	        android:textSize="20sp"
+	        android:textColor="#000000"
+	        android:text="@string/new_copy_right" />
+
+	    <TextView
+	        android:id="@+id/textView_site_adress_about"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginBottom="5dp"
+	        android:textColor="#000000"
+		    android:gravity="center_horizontal"
+	        android:text="@string/site_adress" />
+	    
+		<com.appbrain.AppBrainBanner
+			android:id="@+id/appbrain_banner_about_activity"
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    />
+		        
+    </LinearLayout>
+
+	<TextView
+        android:id="@+id/textView_version"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+		android:text="@string/version"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_centerVertical="true"
+		android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

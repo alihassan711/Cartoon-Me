@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\face_triangular.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-ldpi\\face_triangular.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\face_oval.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-ldpi\\face_oval.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\face_round.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-ldpi\\face_round.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\face_square.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-ldpi\\face_square.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\face.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-ldpi\\face.png"
+    },
+    {
+        "merged": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\face_oblong.png",
+        "source": "D:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\src\\main\\res\\drawable-ldpi\\face_oblong.png"
+    }
+]

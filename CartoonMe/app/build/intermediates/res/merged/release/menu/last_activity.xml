@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Search / will display always -->
+      <item android:id="@+id/action_glasses"
+          android:icon="@drawable/glasses_icon"
+          android:title="@string/glasses"
+          android:showAsAction="always"/>
+    <item android:id="@+id/action_write"
+          android:icon="@drawable/write_icon"
+          android:title="@string/write_something"
+          android:showAsAction="always"/>
+    <item android:id="@+id/action_save2"
+          android:icon="@drawable/save_icon"
+          android:title="@string/save_image"
+          android:showAsAction="always"/>
+    <item android:id="@+id/action_share"
+          android:icon="@drawable/share_icon"
+          android:title="@string/share_image"
+          android:showAsAction="always"/>
+    </menu>

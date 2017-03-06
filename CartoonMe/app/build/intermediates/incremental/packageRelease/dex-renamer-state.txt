@@ -1,0 +1,7 @@
+#Sat Jan 07 03:07:44 PKT 2017
+base.0=D\:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+base.1=D\:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+file.0=D\:\\Workspace\\Al-Burraq\\WorkingProjects\\CartoonMe\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes2.dex

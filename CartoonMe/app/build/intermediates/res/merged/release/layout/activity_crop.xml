@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000"
+    android:orientation="vertical" >
+
+     <com.appbrain.AppBrainBanner
+	android:id="@+id/appbrain_banner_crop_activity"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true" />
+
+    
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0" >
+
+        <ImageView
+            android:id="@+id/cp_img"
+            android:contentDescription="@string/cp_image_contentDesc"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:scaleType="matrix" />
+
+        <ImageView
+            android:id="@+id/cp_face_template"
+            android:contentDescription="@string/cp_template_contentDesc"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/face_oval" 
+            android:scaleType="centerInside"   ></ImageView>
+            </FrameLayout>
+    
+   <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:layout_marginBottom="5dp"
+         >
+
+       <Button
+           android:id="@+id/imageButton_change_template"
+           style="?android:attr/buttonBarButtonStyle"
+           android:layout_width="0dip"
+           android:layout_height="40dp"
+           android:layout_weight="0.5"
+           android:background="@drawable/custom_btn_shakespeare"
+           android:onClick="onChangeTemplateButton"
+           android:text="@string/cp_template_button"
+           android:textColor="#000000"
+           android:textSize="15sp" />
+
+       <Button
+         android:layout_width="10dp"
+         android:layout_height="2dp"
+         style="?android:attr/buttonBarButtonStyle"
+         android:background="#000000"
+           ></Button>
+       <Button
+           android:id="@+id/imageButton_crop_image"
+           android:layout_width="0dip"
+           android:layout_height="40dp"
+           android:layout_weight="0.5"
+           style="?android:attr/buttonBarButtonStyle"
+           android:onClick="onCropImageButton"
+           android:textColor="#000000"
+           android:textSize="15sp"
+           android:background="@drawable/custom_btn_shakespeare"
+           android:text="@string/cp_crop_button" />
+        
+    </LinearLayout>
+</LinearLayout>

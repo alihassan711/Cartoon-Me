@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popeye"
+        android:showAsAction="ifRoom"
+        android:title="Popeye">
+    </item>
+    <item
+     android:id="@+id/pink"
+     android:showAsAction="ifRoom"
+     android:title="Pink Panther">
+    </item>
+      <item
+     android:id="@+id/spiderman"
+     android:showAsAction="ifRoom"
+     android:title="Spiderman">
+    </item>
+      <item
+     android:id="@+id/johny"
+     android:showAsAction="ifRoom"
+     android:title="Johny Bravo">
+    </item>
+      <item
+     android:id="@+id/hulk"
+     android:showAsAction="ifRoom"
+     android:title="Hulk">
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</menu>
